@@ -79,7 +79,7 @@ public class SlotActivity extends AppCompatActivity {
 //
 //        TextView cc =  (TextView)findViewById(R.id.cc);
 //        cc.setText(String.valueOf(threeHan));
-
+//          Githubかくにん
 
         int h = 0;
 
